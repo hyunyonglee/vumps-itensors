@@ -1,0 +1,9 @@
+# Folders
+*/
+
+# Jupyter Notebook
+*.ipynb
+
+# Miscellaneous
+*.key
+*.xlsx
